@@ -26,3 +26,11 @@ $ python main.py
 - You need to select the `input folder` and the `output folder`, if you type "out" will create a folder relative, i. e, will create a folder in the root project.
 
 - Select a format option, available: `png`, `jpeg`, `webp`, and `tiff`
+
+---
+<div align="center">
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
+</div>
+<p align="center">
+  <sub>Created by BrenoAV</sub>
+</p>
